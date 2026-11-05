@@ -1,0 +1,13 @@
+{
+  "addons": {
+    "hmk-kethira-vtt-bridge@local": {
+      "updates": [
+        {
+          "version": "0.3.1",
+          "update_link": "https://mrcovet.github.io/hmk-firefox-bridge/releases/HMK_Firefox_VTT_Bridge_v0.3.1_signed.xpi",
+          "update_hash": "sha256:5a2c7aebd82bc31ac34d6c2010d49359d98223632887399bf7f11b0fb0bf4e0e"
+        }
+      ]
+    }
+  }
+}
