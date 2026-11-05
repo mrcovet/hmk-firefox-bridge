@@ -1,6 +1,3 @@
-# hmk-firefox-bridge
-Automatic updates for the HârnMaster Kèthîra Firefox VTT Bridge.
-
 # HMK Kèthîra ↔ Roll20 VTT Bridge
 
 **Connect the HMK Kèthîra Workshop and DM Toolkit to Roll20.**
